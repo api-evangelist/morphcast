@@ -8,8 +8,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-09'
 modified: '2026-03-16'
 url: >-
@@ -23,8 +22,7 @@ apis:
       AI solutions to analyze facial emotions, empowering AI Agents and delivering
       empathetic, data-driven, and dynamic digital experiences.
     humanURL: ' https://www.morphcast.com/'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://www.morphcast.com/'
