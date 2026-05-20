@@ -17,6 +17,11 @@ modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/morphcast/refs/heads/main/apis.yml
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/MorphCast
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/morphcast
 apis:
   - aid: morphcast:morphcast
     name: MorphCast
