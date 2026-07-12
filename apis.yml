@@ -18,10 +18,14 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/morphcast/refs/heads/main/apis.yml
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/morphcast-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/MorphCast
   - type: LinkedIn
     url: https://www.linkedin.com/company/morphcast
+  - url: https://www.morphcast.com/blog/feed/
+    type: Blog
 apis:
   - aid: morphcast:morphcast
     name: MorphCast
