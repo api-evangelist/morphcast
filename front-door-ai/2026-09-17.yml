@@ -1,0 +1,29 @@
+# Front Door AI Index — morphcast — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: morphcast
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: morphcast.com
+  final_host: www.morphcast.com
+  ownership: own
+  owner: morphcast
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 40
+  host_score: 40
+  density: 27.8
+  words: 1439
+  tiers:
+    agentic: 1
+    core: 39
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 37
+    artificial intelligence: 1
+    embedding: 1
+    intelligence: 1
+    machine learning: 1
