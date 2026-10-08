@@ -39,6 +39,12 @@ modified: '2026-09-16'
 url: https://raw.githubusercontent.com/api-evangelist/morphcast/refs/heads/main/apis.yml
 specificationVersion: '0.23'
 common:
+- type: Plans
+  url: plans/morphcast-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/morphcast-rate-limits.yml
+- type: FinOps
+  url: finops/morphcast-finops.yml
 - type: Website
   url: https://morphcast.com
 - type: DomainSecurity
