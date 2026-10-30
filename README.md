@@ -1,4 +1,4 @@
-# MorphCast (morphcast)
+# MorphCast
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,43 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-We expertly craft safe browser-processing, energy-efficient, accurate Emotion AI solutions to analyze facial emotions, empowering AI Agents and delivering empathetic, data-driven, and dynamic digital experiences. 
+We expertly craft safe browser-processing, energy-efficient, accurate Emotion AI solutions to analyze facial emotions, empowering AI Agents and delivering empathetic, data-driven, and dynamic digital experiences.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/morphcast/refs/heads/main/apis.yml)
+**Areas:** Emotion AI · Facial Analysis · SDK
 
-## Scope
+## MorphCast on APIs.io
 
-- **Type:** Index 
-- **Position:** Consumer 
-- **Access:** 3rd-Party 
+Everything profiled for MorphCast is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/morphcast/](https://apis.io/providers/morphcast/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Emotion AI, Facial Analysis, SDK
+- [MorphCast](https://apis.io/apis/morphcast/morphcast/) — We expertly craft safe browser-processing, energy-efficient, accurate Emotion AI solutions to analyze facial emotions, empowering AI Agents and delivering…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-02-09 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### MorphCast
-We expertly craft safe browser-processing, energy-efficient, accurate Emotion AI solutions to analyze facial emotions, empowering AI Agents and delivering empathetic, data-driven, and dynamic digital experiences. 
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://www.morphcast.com/](https://www.morphcast.com/)
+- [Morphcast Domain Security](https://apis.io/security/morphcast/morphcast-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Emotion AI, Facial Analysis, SDK
+- [Morphcast Plans Pricing](https://apis.io/plans/morphcast/morphcast-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://www.morphcast.com/)
+Published request limits.
 
-## Maintainers
+- [Morphcast Rate Limits](https://apis.io/rate-limits/morphcast/morphcast-rate-limits/)
 
-**FN:** Kin Lane
+#### FinOps (1)
 
-**Email:** kin@apievangelist.com
+What the API costs to run, by operation.
+
+- [Morphcast Finops](https://apis.io/finops/morphcast/morphcast-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://morphcast.com)
+- [Blog](https://www.morphcast.com/blog/feed/)
+- [GitHub](https://github.com/MorphCast)
+
+## API Evangelist rating
+
+**Kin Score 8.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.7** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/morphcast/](https://apis.io/providers/morphcast/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MorphCast: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/morphcast/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
